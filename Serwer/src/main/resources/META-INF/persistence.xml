@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persistence version="2.0"
+    xmlns="http://java.sun.com/xml/ns/persistence" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://java.sun.com/xml/ns/persistence http://java.sun.com/xml/ns/persistence/persistence_2_0.xsd">
+    
+    <!-- Define a name used to get an entity manager. Define that you will 
+    complete transactions with the DB  -->
+    <persistence-unit name="Serwer">
+    
+        <!-- Define the class for Hibernate which implements JPA -->
+        <provider>org.hibernate.jpa.HibernatePersistenceProvider</provider>
+        <!-- Define the object that should be persisted in the database -->
+        <class>serwer.komunikacja.Grupa</class>
+        <class>serwer.komunikacja.Nauczyciel</class>
+        <class>serwer.komunikacja.Ocena</class>
+        <class>serwer.komunikacja.Przedmiot</class>
+        <class>serwer.komunikacja.Przedmiot_Nauczyciel</class>
+        <class>serwer.komunikacja.Student</class>
+        <properties>
+            <!-- Driver for DB database -->
+            <property name="javax.persistence.jdbc.driver" value="oracle.jdbc.OracleDriver" />
+            <!-- URL for DB -->
+            <property name="javax.persistence.jdbc.url" value="jdbc:oracle:thin:@localhost:1521/ORCLPDB" />
+            <!-- Username -->
+            <property name="javax.persistence.jdbc.user" value="hr" />
+            <!-- Password -->
+            <property name="javax.persistence.jdbc.password" value="12345" />
+        </properties>
+    </persistence-unit>
+</persistence>

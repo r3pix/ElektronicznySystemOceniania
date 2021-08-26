@@ -1,0 +1,108 @@
+2021-06-08 18:17:53 ERROR ServerMain:78 - java.net.BindException: Address already in use: bind
+2021-06-08 18:18:14 ERROR ServerMain:78 - java.net.BindException: Address already in use: bind
+2021-06-08 18:18:33 ERROR ServerMain:78 - java.net.BindException: Address already in use: bind
+2021-06-08 18:18:56 ERROR ServerMain:78 - java.net.BindException: Address already in use: bind
+2021-06-08 18:20:02 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2021-06-08 18:20:31 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2021-06-08 18:20:33 WARN  SqlExceptionHelper:137 - SQL Error: 2292, SQLState: 23000
+2021-06-08 18:20:33 ERROR SqlExceptionHelper:142 - ORA-02292: naruszono wiêzy spójnoœci (HR.SYS_C0010616) - znaleziono rekord podrzêdny
+
+2021-06-08 18:21:33 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2021-06-08 18:21:36 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2021-06-08 18:21:36 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2021-06-08 18:21:41 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2021-06-08 22:24:25 ERROR ServerMain:78 - java.net.BindException: Address already in use: bind
+2021-06-08 22:26:51 ERROR ServerMain:78 - java.net.BindException: Address already in use: bind
+2021-06-08 22:28:42 ERROR ServerMain:77 - java.net.BindException: Address already in use: bind
+2021-06-08 22:29:05 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2021-06-09 14:45:07 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2021-06-09 19:38:35 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2021-06-09 19:38:59 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2021-06-09 19:39:26 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2021-06-09 19:39:29 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2021-06-09 19:39:29 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2021-06-09 19:39:29 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2021-06-09 19:39:29 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2021-06-09 19:39:30 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2021-06-09 19:39:44 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2021-06-09 19:39:46 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2021-06-09 19:39:47 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2021-06-09 19:39:47 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2021-06-09 19:39:47 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2021-06-09 19:39:47 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2021-06-09 19:40:00 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2021-06-09 19:40:16 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2021-06-09 19:40:18 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2021-06-09 19:44:00 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2021-06-09 19:44:20 WARN  SqlExceptionHelper:137 - SQL Error: 2292, SQLState: 23000
+2021-06-09 19:44:20 ERROR SqlExceptionHelper:142 - ORA-02292: naruszono wiêzy spójnoœci (HR.SYS_C0010615) - znaleziono rekord podrzêdny
+
+2021-06-09 19:44:22 WARN  SqlExceptionHelper:137 - SQL Error: 2292, SQLState: 23000
+2021-06-09 19:44:22 ERROR SqlExceptionHelper:142 - ORA-02292: naruszono wiêzy spójnoœci (HR.SYS_C0010615) - znaleziono rekord podrzêdny
+
+2021-06-09 19:44:25 WARN  SqlExceptionHelper:137 - SQL Error: 2292, SQLState: 23000
+2021-06-09 19:44:25 ERROR SqlExceptionHelper:142 - ORA-02292: naruszono wiêzy spójnoœci (HR.SYS_C0010615) - znaleziono rekord podrzêdny
+
+2021-06-09 19:44:27 WARN  SqlExceptionHelper:137 - SQL Error: 2292, SQLState: 23000
+2021-06-09 19:44:27 ERROR SqlExceptionHelper:142 - ORA-02292: naruszono wiêzy spójnoœci (HR.SYS_C0010615) - znaleziono rekord podrzêdny
+
+2021-06-09 19:44:43 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2021-06-09 19:44:54 WARN  SqlExceptionHelper:137 - SQL Error: 2292, SQLState: 23000
+2021-06-09 19:44:54 ERROR SqlExceptionHelper:142 - ORA-02292: naruszono wiêzy spójnoœci (HR.SYS_C0010618) - znaleziono rekord podrzêdny
+
+2021-06-09 19:44:55 WARN  SqlExceptionHelper:137 - SQL Error: 2292, SQLState: 23000
+2021-06-09 19:44:55 ERROR SqlExceptionHelper:142 - ORA-02292: naruszono wiêzy spójnoœci (HR.SYS_C0010618) - znaleziono rekord podrzêdny
+
+2021-06-09 19:45:02 WARN  SqlExceptionHelper:137 - SQL Error: 2292, SQLState: 23000
+2021-06-09 19:45:02 ERROR SqlExceptionHelper:142 - ORA-02292: naruszono wiêzy spójnoœci (HR.SYS_C0010618) - znaleziono rekord podrzêdny
+
+2021-06-09 19:45:05 WARN  SqlExceptionHelper:137 - SQL Error: 2292, SQLState: 23000
+2021-06-09 19:45:05 ERROR SqlExceptionHelper:142 - ORA-02292: naruszono wiêzy spójnoœci (HR.SYS_C0010618) - znaleziono rekord podrzêdny
+
+2021-06-09 19:45:07 WARN  SqlExceptionHelper:137 - SQL Error: 2292, SQLState: 23000
+2021-06-09 19:45:07 ERROR SqlExceptionHelper:142 - ORA-02292: naruszono wiêzy spójnoœci (HR.SYS_C0010618) - znaleziono rekord podrzêdny
+
+2021-06-09 19:46:53 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2021-06-09 19:47:59 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2021-06-09 19:48:43 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2021-06-09 20:02:48 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2021-06-09 20:04:37 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2021-06-09 20:06:16 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2021-06-09 20:06:46 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2021-06-09 20:06:50 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2021-06-09 20:07:58 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2021-06-09 20:11:43 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2021-06-09 20:12:44 WARN  SqlExceptionHelper:137 - SQL Error: 2292, SQLState: 23000
+2021-06-09 20:12:44 ERROR SqlExceptionHelper:142 - ORA-02292: naruszono wiêzy spójnoœci (HR.SYS_C0010660) - znaleziono rekord podrzêdny
+
+2021-06-09 20:12:47 WARN  SqlExceptionHelper:137 - SQL Error: 2292, SQLState: 23000
+2021-06-09 20:12:47 ERROR SqlExceptionHelper:142 - ORA-02292: naruszono wiêzy spójnoœci (HR.SYS_C0010660) - znaleziono rekord podrzêdny
+
+2021-06-09 20:13:13 WARN  SqlExceptionHelper:137 - SQL Error: 2292, SQLState: 23000
+2021-06-09 20:13:13 ERROR SqlExceptionHelper:142 - ORA-02292: naruszono wiêzy spójnoœci (HR.SYS_C0010660) - znaleziono rekord podrzêdny
+
+2021-06-09 20:13:18 WARN  SqlExceptionHelper:137 - SQL Error: 2292, SQLState: 23000
+2021-06-09 20:13:18 ERROR SqlExceptionHelper:142 - ORA-02292: naruszono wiêzy spójnoœci (HR.SYS_C0010647) - znaleziono rekord podrzêdny
+
+2021-06-09 20:13:23 WARN  SqlExceptionHelper:137 - SQL Error: 2292, SQLState: 23000
+2021-06-09 20:13:23 ERROR SqlExceptionHelper:142 - ORA-02292: naruszono wiêzy spójnoœci (HR.SYS_C0010648) - znaleziono rekord podrzêdny
+
+2021-06-09 20:13:29 WARN  SqlExceptionHelper:137 - SQL Error: 2292, SQLState: 23000
+2021-06-09 20:13:29 ERROR SqlExceptionHelper:142 - ORA-02292: naruszono wiêzy spójnoœci (HR.SYS_C0010660) - znaleziono rekord podrzêdny
+
+2021-06-09 20:14:25 WARN  SqlExceptionHelper:137 - SQL Error: 2292, SQLState: 23000
+2021-06-09 20:14:25 ERROR SqlExceptionHelper:142 - ORA-02292: naruszono wiêzy spójnoœci (HR.SYS_C0010660) - znaleziono rekord podrzêdny
+
+2021-06-09 21:41:53 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2021-06-09 21:42:00 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2021-06-09 21:42:03 WARN  SqlExceptionHelper:137 - SQL Error: 2292, SQLState: 23000
+2021-06-09 21:42:03 ERROR SqlExceptionHelper:142 - ORA-02292: naruszono wiêzy spójnoœci (HR.SYS_C0010709) - znaleziono rekord podrzêdny
+
+2021-06-09 21:42:05 WARN  SqlExceptionHelper:137 - SQL Error: 2292, SQLState: 23000
+2021-06-09 21:42:05 ERROR SqlExceptionHelper:142 - ORA-02292: naruszono wiêzy spójnoœci (HR.SYS_C0010709) - znaleziono rekord podrzêdny
+
+2021-06-09 21:42:14 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2021-06-09 21:48:10 ERROR ServerMain:36 - java.net.BindException: Address already in use: bind
+2021-06-09 22:13:10 ERROR ServerMain:74 - java.net.BindException: Address already in use: bind
+2021-06-09 22:13:21 ERROR ServerMain:74 - java.net.BindException: Address already in use: bind
+2021-06-09 22:14:22 ERROR ServerMain:79 - java.net.BindException: Address already in use: bind
